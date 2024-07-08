@@ -1,3 +1,7 @@
-if(1 > 2){
-    console.log(1)
-}
+var a = 'allan'
+
+
+console.log(a)
+
+
+console.log(a.toUpperCase())
