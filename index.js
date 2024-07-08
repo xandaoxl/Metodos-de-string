@@ -6,4 +6,6 @@ var a = 'allan'
 //console.log('casa'+'casa'.length)
 
 
-var b = 'abc'
+console.log('abc'.charAt(2))
+
+console.log('abcc'.indexOf('c'))
