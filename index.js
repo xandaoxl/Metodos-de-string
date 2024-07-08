@@ -8,4 +8,4 @@ var a = 'allan'
 
 console.log('abc'.charAt(2))
 
-console.log('abcc'.indexOf('c'))
+console.log('abcc abcd'.lastIndexOff('bc'))
